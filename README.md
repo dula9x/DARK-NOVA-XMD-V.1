@@ -32,3 +32,37 @@
 https://replit.com/@dulinanethmira6/DARK-NOVA-XMD-V1-WEB-PAIR
 
 GET SESSON ID AND GOTO CONFIG PASTE YOUR SESSON ID AND SAVE
+
+# DEPLOY WHATSAPP BOT IN GITH HUB 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm install
+    - run: npm run start 
+    - run: npm test
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
