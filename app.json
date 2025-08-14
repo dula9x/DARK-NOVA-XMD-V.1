@@ -1,8 +1,8 @@
 {
-  "name": "PRIME-ALPHA-X-DULA-MD",
-  "description": "Javascript WhatsApp bot made by PRIME-ALPHA-X-DULA-MD",
-  "logo": "https://github.com/dula9x/PRIME-ALPHA-X-DULA-MD/blob/main/images/PRIME%20ALPHA%20X%20DULA%20MD.png?raw=true",
-  "keywords": ["PRIME-ALPHA-X-DULA-MD"],
+  "name": "DARK-NOVA-XMD",
+  "description": "Javascript WhatsApp bot made by DARK-NOVA-XMD",
+  "logo": "https://github.com/dula9x/DARK-NOVA-XMD-V.1/blob/main/images/%E1%B4%85%E1%B4%80%CA%80%E1%B4%8B%20%C9%B4%E1%B4%8F%E1%B4%A0%E1%B4%80%20x%E1%B4%8D%E1%B4%85.png?raw=true",
+  "keywords": ["DARK-NOVA-XMD"],
   "success_url": "/",
 
   "env": {
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "https://github.com/dula9x/PRIME-ALPHA-X-DULA-MD/blob/main/images/PRIME%20ALPHA%20X%20DULA%20MD.png?raw=true",
+      "description": "https://github.com/dula9x/DARK-NOVA-XMD-V.1/blob/main/images/%E1%B4%85%E1%B4%80%CA%80%E1%B4%8B%20%C9%B4%E1%B4%8F%E1%B4%A0%E1%B4%80%20x%E1%B4%8D%E1%B4%85.png?raw=true",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "I'am Alive Now!! PRIME-ALPHA-X-DULA-MD 🤭💗 ආහ් පැටියෝ කොහොමද ?🌝",
+      "description": "I'am Alive Now!! DARK-NOVA-XMD 🤭💗 ආහ් පැටියෝ කොහොමද ?🌝",
       "required": true
     }   
 },
