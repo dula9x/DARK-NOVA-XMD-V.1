@@ -29,7 +29,6 @@
 
 # GET SESSON ID 
 
-https://replit.com/@dulinanethmira6/ᴅᴀʀᴋ ɴᴏᴠᴀ xᴍᴅ-WEB-PAIR
-
+https://replit.com/@dulinanethmira6/DARK-NOVA-XMD-V1-WEB-PAIR
 
 GET SESSON ID AND GOTO CONFIG PASTE YOUR SESSON ID AND SAVE
